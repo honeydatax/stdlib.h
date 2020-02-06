@@ -1,2 +1,0 @@
-.schema BOOK
-.quit
