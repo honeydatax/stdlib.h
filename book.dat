@@ -1,3 +1,0 @@
-select * from BOOK order by NAME
-;
-.quit
